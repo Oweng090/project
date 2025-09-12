@@ -16,6 +16,10 @@ def roll_dice(side):
 # Create the individual window for future use ( will be moved later. )
 root = tk.Tk()
 
+# making a label.
+label = tk.Label(root, text="Dice Roll!", font=("Arial", 14))
+label.pack(pady=20)
+
 roll_Button = tk.Button(root, text="Roll Dice", width=20, command=lambda: roll_dice("Roll!")) # defining a button for the GUI
 roll_Button.place(x=100, y=175) # making it so the program displays the button where i need it.
 
