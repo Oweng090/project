@@ -9,3 +9,7 @@
 
 1. I want to add the option to change the color theme based on given choices
 2. I want to add the choice of how many set of dice you want to roll at one time (up to six at a time.)
+
+## Info:
+
+I will not be updating progress on this repository, instead I will be updating on me Sem_proj repositroy, visit that to see changes.
